@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Modelos salvos
+*.pt
+*.pth
+
+# Sistema
+.DS_Store
+Thumbs.db
